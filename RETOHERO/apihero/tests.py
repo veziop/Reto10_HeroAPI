@@ -1,3 +1,6 @@
 from django.test import TestCase
+from .models import Hero
 
-# Create your tests here.
+
+class HeroTest(TestCase):
+    pass
